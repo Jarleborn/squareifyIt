@@ -1,0 +1,19 @@
+{
+  "name": "squareifyit",
+  "version": "1.0.1",
+  "description": "Put your console log in a litle box with just one line of code",
+  "main": "squareifyIt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarleborn/squareifyIt.git"
+  },
+  "author": "Jarleborn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarleborn/squareifyIt/issues"
+  },
+  "homepage": "https://github.com/Jarleborn/squareifyIt#readme"
+}
