@@ -3,6 +3,7 @@
 [![NPM](https://nodei.co/npm/squareifyit.png)](https://npmjs.org/package/squareifyit)
 
 Have you ever wanted to log something to the terminale in a nice litle square?
+   
     **************
     * Now you can*
     **************
