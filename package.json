@@ -1,6 +1,6 @@
 {
   "name": "squareifyit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Put your console log in a litle box with just one line of code",
   "main": "squareifyIt.js",
   "scripts": {
