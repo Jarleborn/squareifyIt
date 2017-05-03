@@ -2,12 +2,12 @@
 
 [![NPM](https://nodei.co/npm/squareifyit.png)](https://npmjs.org/package/squareifyit)
 
-Have you ever wanted to log something to the terminale in a nice litle square?
+Have you ever wanted to log something to the terminal in a nice little square?
 
 
-    **************
-    * Now you can*
-    **************
+    ***************
+    * Now you can *
+    ***************
 
 
 
